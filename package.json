@@ -1,0 +1,16 @@
+{
+  "name": "hexo-safe-transfer",
+  "version": "0.0.1",
+  "description": "A hexo plugin to add safe-transfer page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "safe-transfer"
+  ],
+  "author": "Natro92",
+  "license": "MIT"
+}
